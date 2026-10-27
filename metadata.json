@@ -1,0 +1,8 @@
+{
+  "name": "Video Idea Story Analyzer AI",
+  "description": "AI-powered video storyboarding and script analysis tool that turns video ideas into structured scene-by-scene storyboards with visual, audio, dialogue, camera directions, and quality scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
